@@ -1,0 +1,1 @@
+[This script]() implements a launchd task on Mac (similar to cron on Linux) that opens Google Drive (or Dropbox, Box, etc) in a defined interval for some amount of time. The purpose of the application is to sync your data without having the syncing service always on and hurting your battery.
