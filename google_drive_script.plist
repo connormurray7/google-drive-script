@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.connormurray7.google_drive_script</string>
+    <string>google_drive_script</string>
     
     <key>ProgramArguments</key>
     <array>
